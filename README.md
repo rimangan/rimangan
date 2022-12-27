@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Riley, and I'm a Ph.D. candidate in Molecular Genetics and Microbiology
-at Duke University. My major research interests are in evolutionary genetics, 
+at Duke University. My major research interests are in the evolution of gene regulation, 
 computational biology, and neurodevelopment. I am a lead developer on Gonomics, an open-source
 repository for genomics software in the Go programming language. 
 
