@@ -2,7 +2,7 @@
 
 My name is Riley, and I'm a postdoc with the Kellis lab at MIT CSAIL. I received my Ph.D. in Molecular Genetics and Microbiology
 from Duke University. My major research interests are in the evolution of gene regulation, 
-computational biology, and neurodevelopment. I am a lead developer on Gonomics, an open-source
+computational biology, and neurodevelopment. I am a lead developer of Gonomics, an open-source
 repository for genomics software in the Go programming language. 
 
 <!--
