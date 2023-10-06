@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-My name is Riley, and I'm a postdoc with the Kellis lab at MIT CSAIL. I received my Ph.D. in Molecular Genetics and Microbiology
+My name is Riley, and I'm a postdoc with the Computational Biology Group (PI: Manolis Kellis) at MIT CSAIL and the Broad Institute of MIT and Harvard. 
+I received my Ph.D. in Molecular Genetics and Microbiology
 from Duke University. My major research interests are in the evolution of gene regulation, 
 computational biology, and neurodevelopment. I am a lead developer of Gonomics, an open-source
 repository for genomics software in the Go programming language. 
